@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "chrono": "cpp",
+        "memory": "cpp",
+        "tuple": "cpp",
+        "initializer_list": "cpp"
+    }
+}
